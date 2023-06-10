@@ -1,7 +1,7 @@
 import './style.css'
 
 const personalInfo = {
-  img: './profile-img.jpg',
+  img: './assets/profile-img.jpg',
   name: 'Paula Castro Rodríguez',
   info: 'Desarrolladora de banderas de plastilina.',
   description: 'Desde pequeña, tengo gran pasión por la plastilina en todas sus versiones. Le dedico gran esfuerzo a cada una de las banderas. La arcilla y el fimo crean el resultado final y te llega a tu casa en segundos.',
@@ -15,9 +15,9 @@ const languages = {
 };
 const links = {
   linkedinHref: 'https://www.linkedin.com/in/alejandra-castro-rodr%C3%ADguez-a671b3208/',
-  linkedinLogo: './linkedin.png',
+  linkedinLogo: './assets/linkedin.png',
   gitHubHref: 'https://github.com/PaulaCR90/',
-  gitHubLogo: './github.png',
+  gitHubLogo: './assets/github.png',
 };
 
 export const renderHome = () => {

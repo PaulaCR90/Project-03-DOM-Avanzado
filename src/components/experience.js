@@ -2,7 +2,7 @@ import './style.css'
 
 const experiencias = [
     {
-      image: "./logo-lasrozas.png",
+      image: "./assets/logo-lasrozas.png",
       title: "Hípica Las Rozas",
       job: "Profesora salto avanzado",
       date: "2018/2022",
@@ -11,7 +11,7 @@ const experiencias = [
       link: "https://www.lasrozas.es/deportes/actividades/actividades-adultos/cursos/hipica",
     },
     {
-      image: "./logo-natura.jpg",
+      image: "./assets/logo-natura.jpg",
       title: "Escuela de equitación Natur",
       job: "Directora técnica",
       date: "2021/2023",
@@ -20,7 +20,7 @@ const experiencias = [
       link: "http://hipicamadrid.es/",
     },
     {
-      image: "./logo-uc.jpg",
+      image: "./assets/logo-uc.jpg",
       title: "Universidade do Cavalo - São Paulo",
       job: "Entrenadora de caballos de todos los niveles",
       date: "2013/2014",
@@ -29,7 +29,7 @@ const experiencias = [
       link: "https://uccavalo.com.br/",
     },
     {
-      image: "./logo-ccvm.jpg",
+      image: "./assets/logo-ccvm.jpg",
       title: "Club de Campo Villa de Madrid",
       job: "Profesora de equitación",
       date: "2016/2017",
@@ -38,7 +38,7 @@ const experiencias = [
       link: "https://www.ccvm.es/es/deportes/hipica/escuela",
     },
     {
-      image: "./logo-sanjoaquin.png",
+      image: "./assets/logo-sanjoaquin.png",
       title: "Hípica San Joaquín",
       job: "Dirección técnica",
       date: "2014/2016",
